@@ -1,0 +1,21 @@
+body{
+	background-color: #e0b0ff;
+}
+
+#tudo{
+	position: relative;
+	left: 560px;
+	top: 60px;
+}
+
+#pelotempo{
+	position: relative;
+	left: 535px;
+	top:70px;
+}
+
+#calc{
+	position: relative;
+	left: -120px;
+	top:-30px;
+}
